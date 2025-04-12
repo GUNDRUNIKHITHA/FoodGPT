@@ -1,0 +1,702 @@
+[
+    {
+        "Dish Name": "Chicken Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 270.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 550.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Sri Abhiruchi Restaurant",
+        "Address": "Abhiruchi Building, Juvvalapalem Rd, Hamsameda, Bhimavaram, Andhra Pradesh 534202, India",
+        "Delivery Time": 35
+    },
+    {
+        "Dish Name": "Dilkush Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 610.0,
+        "Rating": "4.9",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Prawn Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 350.0,
+        "Rating": "3.5",
+        "Is Veg": "No",
+        "Restaurant Name": "Abhiruchi Veg and Non Veg Restaurant",
+        "Address": "Beside malabar gold .pp road ,bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken biryani",
+        "Category": "Biryani",
+        "Price (INR)": 230.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biryani point",
+        "Address": "D.no.27-1-2/1, Dnr College Road , Hotel Sarovar Complex, Bhimavaram, west godavari, Andhrapradesh-534201",
+        "Delivery Time": 19
+    },
+    {
+        "Dish Name": "Chicken dum biryani",
+        "Category": "Biryani",
+        "Price (INR)": 230.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biryani point",
+        "Address": "D.no.27-1-2/1, Dnr College Road , Hotel Sarovar Complex, Bhimavaram, west godavari, Andhrapradesh-534201",
+        "Delivery Time": 19
+    },
+    {
+        "Dish Name": "Prawn Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 400.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Potlam Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 499.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "M V Royal Spice",
+        "Address": "Mg. PARTNER, D.No.3-15-49, HOTEL ATHIDI RESIDENCY COMPOUND, GROUND FLOOR, J.P.ROAD, BHIMAVARAM, Bhimavaram, West Godavari, Andhra Pradesh-534202",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Mutton Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 400.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Abhiruchi Veg and Non Veg Restaurant",
+        "Address": "Beside malabar gold .pp road ,bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Biryani",
+        "Category": "Non Veg Biryani",
+        "Price (INR)": 320.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Grand",
+        "Address": "D.No.3-7-12/a, Town Railway Station Road, Revenue Ward No.3, Bhimavaram, West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 528.0,
+        "Rating": "3.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Spice Magic",
+        "Address": "3-1-179,Hotel Grand Leela Krishna,Undi Road,Bhimavaram,534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Prawns Biryani",
+        "Category": " Biryanis",
+        "Price (INR)": 472.0,
+        "Rating": "3.9",
+        "Is Veg": "No",
+        "Restaurant Name": "Biryanis And More",
+        "Address": "D 27-14-13/3, Ground Floor, N Prime Complex, Juvvalapalem Road, Opposite Padmalya Theater, Bhimavaram Locality, Bhimavaram, 534202",
+        "Delivery Time": 36
+    },
+    {
+        "Dish Name": "Mutton Dum Biriyani",
+        "Category": "Biryani",
+        "Price (INR)": 450.0,
+        "Rating": "4.6",
+        "Is Veg": "No",
+        "Restaurant Name": "S K M Biryani Center",
+        "Address": "SHAIK KHAJA MOHIDDIN CHISTY PROPRIETORSHIP FIRM, PROPRIETOR:SHIAK MASTAN DNO 3-6-16/2, CHEKKA VARI VEEDHI,NEAR RAILWAY TOWN STATION. BHIMAVARAM, Rayalam (Rural) , Bhimavaram, West Godavari, Andhra Pra",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Chicken Fried Biriyani",
+        "Category": "Biryani",
+        "Price (INR)": 300.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "S K M Biryani Center",
+        "Address": "SHAIK KHAJA MOHIDDIN CHISTY PROPRIETORSHIP FIRM, PROPRIETOR:SHIAK MASTAN DNO 3-6-16/2, CHEKKA VARI VEEDHI,NEAR RAILWAY TOWN STATION. BHIMAVARAM, Rayalam (Rural) , Bhimavaram, West Godavari, Andhra Pra",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Dilkush Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 500.0,
+        "Rating": "2.4",
+        "Is Veg": "No",
+        "Restaurant Name": "New Paradise Family Restaurant & Arabian Mandi",
+        "Address": "Door No: 3-1-140, Opposite HP Petrol Bunk  Near Geetha Multiplex Undi Road, West  Godavari, Andhra Pradesh-534202",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 170.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Sri Akshaypatra Hotel",
+        "Address": "Plot no 12, tadepalligudam road gollakoderu , Gollalakoderu, Palacoderu, West Godavari, Andhra Pradesh - 534202",
+        "Delivery Time": 20
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani Full",
+        "Category": "Biryani",
+        "Price (INR)": 360.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Sri Akshaypatra Hotel",
+        "Address": "Plot no 12, tadepalligudam road gollakoderu , Gollalakoderu, Palacoderu, West Godavari, Andhra Pradesh - 534202",
+        "Delivery Time": 20
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 480.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Hotline Family Restaurant",
+        "Address": "D.No. 21-1-8, MOHAN PLAZA, J P ROAD, BHIMAVARAM,West Godavari, Andhra Pradesh-534201",
+        "Delivery Time": 32
+    },
+    {
+        "Dish Name": "Chitti Mutyalu Chicken Roast Biryani",
+        "Category": "Chitti Mutyalu Biryani",
+        "Price (INR)": 149.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Viyyala Vari Vindhu",
+        "Address": "D.NO- 27-16-9/1, PADMALAYA THEATER BACKSIDE, GROUND FLOOR, PADMALAYA RESIDENCY, J.P ROAD, BHIMAVARAM, WEST GODAVARI DIST - 534202 ,Rayalam (Rural),Bhimavaram,West Godavari,Andhra Pradesh-534202\t",
+        "Delivery Time": 22
+    },
+    {
+        "Dish Name": "Potlam biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 329.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Akshaya Restaurant",
+        "Address": "3-1-98/1, WARD 37, UNDI ROAD, BHIMAVARAM-534202 ,Annavaram,Bhimavaram,West Godavari,Andhra Pradesh-534202\t",
+        "Delivery Time": 36
+    },
+    {
+        "Dish Name": "Mughlai biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 399.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Akshaya Restaurant",
+        "Address": "3-1-98/1, WARD 37, UNDI ROAD, BHIMAVARAM-534202 ,Annavaram,Bhimavaram,West Godavari,Andhra Pradesh-534202\t",
+        "Delivery Time": 36
+    },
+    {
+        "Dish Name": "Egg Biriyani",
+        "Category": "Biriyani",
+        "Price (INR)": 210.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Sri Raja Ice Parlour And Bakery",
+        "Address": "JULURI GOPI RAJU D.NO.22-7-78,79,80, NEAR MAVULLAMMA TEMPLE, NHIMAVARAM , West Godavari, Andhra Pradesh-534201",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Chitti Muthyalu Mutton Biryani",
+        "Category": "Chitti Mutyalu Biryani",
+        "Price (INR)": 399.0,
+        "Rating": "3.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Viyyala Vari Vindhu",
+        "Address": "D.NO- 27-16-9/1, PADMALAYA THEATER BACKSIDE, GROUND FLOOR, PADMALAYA RESIDENCY, J.P ROAD, BHIMAVARAM, WEST GODAVARI DIST - 534202 ,Rayalam (Rural),Bhimavaram,West Godavari,Andhra Pradesh-534202\t",
+        "Delivery Time": 22
+    },
+    {
+        "Dish Name": "Paneer Biryani with Garlic Chicken combo                                                                           ",
+        "Category": "Must Try Combos",
+        "Price (INR)": 510.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Indian Spice",
+        "Address": "INSIDE COASTAL CITY CENTRE, MULTIPLEX, UNDI ROAD, BHIMAVARAM,West Godavari,Andhra Pradesh  534201",
+        "Delivery Time": 44
+    },
+    {
+        "Dish Name": "Chicken Lolipop Biryani with Chicken 828                                                                           ",
+        "Category": "Must Try Combos",
+        "Price (INR)": 570.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Indian Spice",
+        "Address": "INSIDE COASTAL CITY CENTRE, MULTIPLEX, UNDI ROAD, BHIMAVARAM,West Godavari,Andhra Pradesh  534201",
+        "Delivery Time": 44
+    },
+    {
+        "Dish Name": "Mixed biryani",
+        "Category": "Biryani",
+        "Price (INR)": 399.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biryani point",
+        "Address": "D.no.27-1-2/1, Dnr College Road , Hotel Sarovar Complex, Bhimavaram, west godavari, Andhrapradesh-534201",
+        "Delivery Time": 19
+    },
+    {
+        "Dish Name": "Jio chicken biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 200.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Mutton Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 490.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Prawns biryani",
+        "Category": "Biryani",
+        "Price (INR)": 390.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biryani point",
+        "Address": "D.no.27-1-2/1, Dnr College Road , Hotel Sarovar Complex, Bhimavaram, west godavari, Andhrapradesh-534201",
+        "Delivery Time": 19
+    },
+    {
+        "Dish Name": "Chicken Fry Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 370.0,
+        "Rating": "5.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 470.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Prawn Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 390.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Hyderabad Fry Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 400.0,
+        "Rating": "4.4",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Joint Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 365.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 300.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Abhiruchi Veg and Non Veg Restaurant",
+        "Address": "Beside malabar gold .pp road ,bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 475.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Prawn Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 449.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "M V Royal Spice",
+        "Address": "Mg. PARTNER, D.No.3-15-49, HOTEL ATHIDI RESIDENCY COMPOUND, GROUND FLOOR, J.P.ROAD, BHIMAVARAM, Bhimavaram, West Godavari, Andhra Pradesh-534202",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Fish Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 400.0,
+        "Rating": "4.7",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Moghali Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 400.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Moghalai Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 400.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Punjabi Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 400.0,
+        "Rating": "4.4",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Kabab Biryani ",
+        "Category": "Biryani",
+        "Price (INR)": 390.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Joint Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 400.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Kabab Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 430.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Guntur Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 635.0,
+        "Rating": "4.7",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 370.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Mutton Biryani",
+        "Category": "Non Veg Biryani",
+        "Price (INR)": 550.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Grand",
+        "Address": "D.No.3-7-12/a, Town Railway Station Road, Revenue Ward No.3, Bhimavaram, West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "Prawns Biryani",
+        "Category": "Non Veg Biryani",
+        "Price (INR)": 400.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Grand",
+        "Address": "D.No.3-7-12/a, Town Railway Station Road, Revenue Ward No.3, Bhimavaram, West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "Mutton  Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 550.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Special Chicken Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 350.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Prawns Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 410.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Sri Abhiruchi Restaurant",
+        "Address": "Abhiruchi Building, Juvvalapalem Rd, Hamsameda, Bhimavaram, Andhra Pradesh 534202, India",
+        "Delivery Time": 35
+    },
+    {
+        "Dish Name": "Splecial Mutton Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 500.0,
+        "Rating": "3.7",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chandrika Mixed Biryani",
+        "Category": "Non Veg Biryani",
+        "Price (INR)": 470.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Grand",
+        "Address": "D.No.3-7-12/a, Town Railway Station Road, Revenue Ward No.3, Bhimavaram, West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 349.0,
+        "Rating": "3.9",
+        "Is Veg": "No",
+        "Restaurant Name": "M V Royal Spice",
+        "Address": "Mg. PARTNER, D.No.3-15-49, HOTEL ATHIDI RESIDENCY COMPOUND, GROUND FLOOR, J.P.ROAD, BHIMAVARAM, Bhimavaram, West Godavari, Andhra Pradesh-534202",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Chicken Biryani Single ",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 170.0,
+        "Rating": "5.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Tangdi Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 349.0,
+        "Rating": "3.1",
+        "Is Veg": "No",
+        "Restaurant Name": "M V Royal Spice",
+        "Address": "Mg. PARTNER, D.No.3-15-49, HOTEL ATHIDI RESIDENCY COMPOUND, GROUND FLOOR, J.P.ROAD, BHIMAVARAM, Bhimavaram, West Godavari, Andhra Pradesh-534202",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 420.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Abhiruchi Veg and Non Veg Restaurant",
+        "Address": "Beside malabar gold .pp road ,bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Fry Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 369.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "M V Royal Spice",
+        "Address": "Mg. PARTNER, D.No.3-15-49, HOTEL ATHIDI RESIDENCY COMPOUND, GROUND FLOOR, J.P.ROAD, BHIMAVARAM, Bhimavaram, West Godavari, Andhra Pradesh-534202",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Chicken Kabab Biryani",
+        "Category": "Non Veg Biryani",
+        "Price (INR)": 390.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Grand",
+        "Address": "D.No.3-7-12/a, Town Railway Station Road, Revenue Ward No.3, Bhimavaram, West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "Keema Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 515.0,
+        "Rating": "4.7",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Egg Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 290.0,
+        "Rating": "4.5",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Konaseema Kodi Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 399.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "M V Royal Spice",
+        "Address": "Mg. PARTNER, D.No.3-15-49, HOTEL ATHIDI RESIDENCY COMPOUND, GROUND FLOOR, J.P.ROAD, BHIMAVARAM, Bhimavaram, West Godavari, Andhra Pradesh-534202",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Chicken Joint Biryani",
+        "Category": "Non Veg Biryani",
+        "Price (INR)": 400.0,
+        "Rating": "4.4",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Grand",
+        "Address": "D.No.3-7-12/a, Town Railway Station Road, Revenue Ward No.3, Bhimavaram, West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "Special Egg Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 320.0,
+        "Rating": "4.4",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Mixed Mutton Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 475.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Special Mutton Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 550.0,
+        "Rating": "3.9",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Pot Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 460.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Special Egg Biryani",
+        "Category": "Rice and Biryani Special",
+        "Price (INR)": 320.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Suprabhath",
+        "Address": "D.No.3-1-87,Sreenilayam,Undi Road,Bhimavaram,West Godavari,Andhra Pradesh-534202",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Special Prawn Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 410.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Chandrika Biriyani Family Point",
+        "Address": "27-1-2/C, JP Road,Srirampuram,Bhimavaram",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 385.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Spice Magic",
+        "Address": "3-1-179,Hotel Grand Leela Krishna,Undi Road,Bhimavaram,534202",
+        "Delivery Time": 24
+    }
+]
