@@ -1,0 +1,1012 @@
+[
+    {
+        "Dish Name": "Mutton Fry Bit Biryani Sgl With Drink",
+        "Category": "Non Veg Combos",
+        "Price (INR)": 300.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Mirch Masala - SVN Grand",
+        "Address": "SVN Grand  Surya Rao Peta  Kakinada  Andhra Pradesh  India",
+        "Delivery Time": 25
+    },
+    {
+        "Dish Name": "Chicken Fry-bit Biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 215.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Food Park Family Restaurant",
+        "Address": "8-5-22 ontimamidi junction ,gandhi park back side,gandhinagar",
+        "Delivery Time": 30
+    },
+    {
+        "Dish Name": "Semi Gravy Chicken Biryani (3 Leg Pcs)",
+        "Category": "Non Veg Biryanis",
+        "Price (INR)": 481.0,
+        "Rating": "4.6",
+        "Is Veg": "No",
+        "Restaurant Name": "Yati",
+        "Address": "Rama Rao Peta, Kakinada, Andhra Pradesh 533001, India",
+        "Delivery Time": 17
+    },
+    {
+        "Dish Name": "Chicken Boneless Biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 225.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Food Park Family Restaurant",
+        "Address": "8-5-22 ontimamidi junction ,gandhi park back side,gandhinagar",
+        "Delivery Time": 30
+    },
+    {
+        "Dish Name": "Chicken Fry Biryani [3 Pieces]",
+        "Category": "Budget Biryani",
+        "Price (INR)": 240.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Maha's Kitchen",
+        "Address": "D No 4-14/16, T-2 No 1, Vakalapudi , Kakinada, East Godavari, Andhra Pradesh, 533005",
+        "Delivery Time": 26
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 236.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Sri Yati Softy - Padmapriya Complex",
+        "Address": "DNo.2, 2-8, Bhanugudi Jct, Srinagar, Kakinada, Andhra Pradesh 533003",
+        "Delivery Time": 26
+    },
+    {
+        "Dish Name": "Chicken Fry Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 295.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Kshatriya Foods",
+        "Address": "D.No.20/1/25/6, Main Road, Kakinada, Kakinada (Urban), East Godavari,  Andhra Pradesh-533001",
+        "Delivery Time": 15
+    },
+    {
+        "Dish Name": "Prawn Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 309.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Haveli Restaurant",
+        "Address": "2-1-66, Anand Theatre Complex, Bhanugudi Junction, Kakinada,  Kakinada (Urban), East Godavari, Andhra Pradesh-",
+        "Delivery Time": 29
+    },
+    {
+        "Dish Name": "Chicken fry bit biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 249.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Rainbow Restaurant",
+        "Address": "Shop No : 67-15-25/5 , Floor : 0 , Flat no-46, Ground Floor, D-3 Section , ",
+        "Delivery Time": 35
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 259.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Haveli Restaurant",
+        "Address": "2-1-66, Anand Theatre Complex, Bhanugudi Junction, Kakinada,  Kakinada (Urban), East Godavari, Andhra Pradesh-",
+        "Delivery Time": 29
+    },
+    {
+        "Dish Name": "Chicken Mughlai Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 339.0,
+        "Rating": "3.7",
+        "Is Veg": "No",
+        "Restaurant Name": "Hot 'N' Spicy",
+        "Address": "Koppolu Surya Kiran, Proprietor, Shop No 1, East Godavari Sports Authority Shopping Complex, NFCL ROAD, Kakinada, East Godavari, Kakinada, Andhra Pradesh, 533005",
+        "Delivery Time": 48
+    },
+    {
+        "Dish Name": "Chicken Fry bit Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 250.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Sri Yati Softy - Padmapriya Complex",
+        "Address": "DNo.2, 2-8, Bhanugudi Jct, Srinagar, Kakinada, Andhra Pradesh 533003",
+        "Delivery Time": 26
+    },
+    {
+        "Dish Name": "Chicken Fry Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 349.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Meesala Raju Gari Military Hotel",
+        "Address": "1-15-30, Opp. Pulse Hospital, Sriram Nagar, Kakinada - 533003",
+        "Delivery Time": 25
+    },
+    {
+        "Dish Name": "Paneer Cashew Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 310.0,
+        "Rating": "4.2",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Reeves Royale Restaurant",
+        "Address": "D.No.13-1-22/1, 1st Floor, Opp. Chandana Bros, Main Road, Subhash Road, Kakinada, Kakinada (Urban), Kakinada, Andhra Pradesh-533001",
+        "Delivery Time": 40
+    },
+    {
+        "Dish Name": "Mughalai Chicken Biryani (Boneless)",
+        "Category": "Biryanis",
+        "Price (INR)": 399.0,
+        "Rating": "3.9",
+        "Is Veg": "No",
+        "Restaurant Name": "Reeves Royale Restaurant",
+        "Address": "D.No.13-1-22/1, 1st Floor, Opp. Chandana Bros, Main Road, Subhash Road, Kakinada, Kakinada (Urban), Kakinada, Andhra Pradesh-533001",
+        "Delivery Time": 40
+    },
+    {
+        "Dish Name": "Paneer Cashew Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 310.0,
+        "Rating": "3.9",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Maha's Kitchen",
+        "Address": "D No 4-14/16, T-2 No 1, Vakalapudi , Kakinada, East Godavari, Andhra Pradesh, 533005",
+        "Delivery Time": 26
+    },
+    {
+        "Dish Name": "Mutton Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 399.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Meesala Raju Gari Military Hotel",
+        "Address": "1-15-30, Opp. Pulse Hospital, Sriram Nagar, Kakinada - 533003",
+        "Delivery Time": 25
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Rice And Biryanis",
+        "Price (INR)": 200.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Mirch Masala - SVN Grand",
+        "Address": "SVN Grand  Surya Rao Peta  Kakinada  Andhra Pradesh  India",
+        "Delivery Time": 25
+    },
+    {
+        "Dish Name": "Keema Prawns Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 390.0,
+        "Rating": "4.4",
+        "Is Veg": "No",
+        "Restaurant Name": "Srinivasa Varma's Fastfood",
+        "Address": "Dr.No:2-31-4, A.N Complex, Sri Nagar, Near Padma Priya Theatre, Brindavan Road, Bhanugudi Junction, Bhanugudi Junction, G O Colony, Kakinada, Andhra Pradesh 533003, India",
+        "Delivery Time": 28
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 430.0,
+        "Rating": "4.4",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Srinivasa Varma's Fastfood",
+        "Address": "Dr.No:2-31-4, A.N Complex, Sri Nagar, Near Padma Priya Theatre, Brindavan Road, Bhanugudi Junction, Bhanugudi Junction, G O Colony, Kakinada, Andhra Pradesh 533003, India",
+        "Delivery Time": 28
+    },
+    {
+        "Dish Name": "Biryani Rice",
+        "Category": "Hyderabad Dum Biryani",
+        "Price (INR)": 175.0,
+        "Rating": "3.9",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Zeeshan Restaurant - Apna Hyderabadi Food",
+        "Address": "dr.nbr : 20-13-10, abbasia complex ground floor,1st,2nd,3rd floors, mantripragada vari street, kakinada",
+        "Delivery Time": 18
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani Single Joint",
+        "Category": "Hyderabad Dum Biryani",
+        "Price (INR)": 325.0,
+        "Rating": "4.4",
+        "Is Veg": "No",
+        "Restaurant Name": "Zeeshan Restaurant - Apna Hyderabadi Food",
+        "Address": "dr.nbr : 20-13-10, abbasia complex ground floor,1st,2nd,3rd floors, mantripragada vari street, kakinada",
+        "Delivery Time": 18
+    },
+    {
+        "Dish Name": "Chicken Fry Bit Biryani",
+        "Category": "Rice And Biryanis",
+        "Price (INR)": 260.0,
+        "Rating": "3.9",
+        "Is Veg": "No",
+        "Restaurant Name": "Raj Cosma Restaurant",
+        "Address": "16-24-25, Water Tank Road, Dairy Farm Center, Opp Deaf And Dumb School, Kakinada, Andhra Pradesh 533003, India",
+        "Delivery Time": 33
+    },
+    {
+        "Dish Name": "Panner Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 230.0,
+        "Rating": "3.9",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Bakers Inn - Main Road",
+        "Address": "Bhanugudi Junction, Surya Rao Peta near Anand Theatre Complex, Bhanugudi Junction, G O Colony, Kakinada, Andhra Pradesh 533003, India",
+        "Delivery Time": 35
+    },
+    {
+        "Dish Name": "Chicken dum biryani (single)",
+        "Category": "Biryani",
+        "Price (INR)": 240.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Star Mehfil",
+        "Address": "D.No.70-14-8/26, Shop No-1, Jayendra Nagar, Gudarigunta, Kakinada, Kakinada (Urban) Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Chicken Mughlai Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 199.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Siri Fast Foods",
+        "Address": "X69R+4V2, G O Colony, Kakinada, Andhra Pradesh 533003",
+        "Delivery Time": 29
+    },
+    {
+        "Dish Name": "Chicken Fry Bit Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 245.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Bakers Inn Restaurant",
+        "Address": "Shop No : Bhanugudi Junct , Floor : 0 , Surya Rao Peta near Anand Theatre Complex , ",
+        "Delivery Time": 29
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani-Half",
+        "Category": "Non Veg Biryanis",
+        "Price (INR)": 260.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Yati",
+        "Address": "Rama Rao Peta, Kakinada, Andhra Pradesh 533001, India",
+        "Delivery Time": 17
+    },
+    {
+        "Dish Name": "Chicken Mugali Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 415.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Bakers Inn - Main Road",
+        "Address": "Bhanugudi Junction, Surya Rao Peta near Anand Theatre Complex, Bhanugudi Junction, G O Colony, Kakinada, Andhra Pradesh 533003, India",
+        "Delivery Time": 35
+    },
+    {
+        "Dish Name": "Veg Biryani Half",
+        "Category": "Main Course",
+        "Price (INR)": 110.0,
+        "Rating": "4.1",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Subbaiah Gari Hotel",
+        "Address": "Nageswara Rao St  Rama Rao Peta  Kakinada  Andhra Pradesh 533004  India",
+        "Delivery Time": 16
+    },
+    {
+        "Dish Name": "Paneer Biryani",
+        "Category": "Rice & Biryanis",
+        "Price (INR)": 305.0,
+        "Rating": "4.1",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Jaya Residency",
+        "Address": "D No  20 6 5  Sithapathi  Nageswara Rao St  opp telephone bhavan  Surya Rao Peta  Kakinada  Andhra Pradesh 533001",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Spl Veg Biryani",
+        "Category": "Rice & Biryanis",
+        "Price (INR)": 290.0,
+        "Rating": "4.3",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Jaya Residency",
+        "Address": "D No  20 6 5  Sithapathi  Nageswara Rao St  opp telephone bhavan  Surya Rao Peta  Kakinada  Andhra Pradesh 533001",
+        "Delivery Time": 24
+    },
+    {
+        "Dish Name": "Chicken dum biryani [Full]",
+        "Category": "Biryani",
+        "Price (INR)": 340.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Star Mehfil",
+        "Address": "D.No.70-14-8/26, Shop No-1, Jayendra Nagar, Gudarigunta, Kakinada, Kakinada (Urban) Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Paneer kaju biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 280.0,
+        "Rating": "3.9",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Rainbow Restaurant",
+        "Address": "Shop No : 67-15-25/5 , Floor : 0 , Flat no-46, Ground Floor, D-3 Section , ",
+        "Delivery Time": 35
+    },
+    {
+        "Dish Name": "Hyderabadi Chicken Dum Biryani ",
+        "Category": "Non Veg Biryanis",
+        "Price (INR)": 175.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Srinivasa Fast Food",
+        "Address": "D.No.57-6-2, Near Jagadeswari Motors, Munsub Junction, Jagannaickpur, Kakinada\t",
+        "Delivery Time": 19
+    },
+    {
+        "Dish Name": "Chicken Mugali Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 380.0,
+        "Rating": "3.5",
+        "Is Veg": "No",
+        "Restaurant Name": "Bakers Inn Restaurant",
+        "Address": "Shop No : Bhanugudi Junct , Floor : 0 , Surya Rao Peta near Anand Theatre Complex , ",
+        "Delivery Time": 29
+    },
+    {
+        "Dish Name": "Chicken Fry Biryani ",
+        "Category": "Non Veg Biryanis",
+        "Price (INR)": 175.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Srinivasa Fast Food",
+        "Address": "D.No.57-6-2, Near Jagadeswari Motors, Munsub Junction, Jagannaickpur, Kakinada\t",
+        "Delivery Time": 19
+    },
+    {
+        "Dish Name": "Chicken Fry-Bit Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 189.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Siri Fast Foods",
+        "Address": "X69R+4V2, G O Colony, Kakinada, Andhra Pradesh 533003",
+        "Delivery Time": 29
+    },
+    {
+        "Dish Name": "Paneer Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 269.0,
+        "Rating": "4.2",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Me 'N' U",
+        "Address": "Opp Pizza Day Bhaskar Nagar Gudari Gunta Road, Dwaraka Nagar Kakinada Andhra Pradesh 533003 India",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Chicken Donne Joint Biryani",
+        "Category": "Donne Biryani",
+        "Price (INR)": 260.0,
+        "Rating": "3.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Rajula Donne Biryani",
+        "Address": "D.No.16-24-25, Dairy Form Center, Bala Venkateswara Nagar,  Sambamurthy Nagar Kakinada, Kakinada (Urban),  East Godavari(Andhra Pradesh) -533003",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Rice And Biryanis",
+        "Price (INR)": 260.0,
+        "Rating": "3.5",
+        "Is Veg": "No",
+        "Restaurant Name": "Raj Cosma Restaurant",
+        "Address": "16-24-25, Water Tank Road, Dairy Farm Center, Opp Deaf And Dumb School, Kakinada, Andhra Pradesh 533003, India",
+        "Delivery Time": 33
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 260.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Abhiruchi Restaurant",
+        "Address": "Masjid centre, Main Road, Suryanarayana Puram, Kakinada, Andhra Pradesh 533001, India",
+        "Delivery Time": 34
+    },
+    {
+        "Dish Name": "Veg Biryani Full",
+        "Category": "Main Course",
+        "Price (INR)": 200.0,
+        "Rating": "4.3",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Subbaiah Gari Hotel",
+        "Address": "Nageswara Rao St  Rama Rao Peta  Kakinada  Andhra Pradesh 533004  India",
+        "Delivery Time": 16
+    },
+    {
+        "Dish Name": "Chicken Hyderabadi Dum Biryani",
+        "Category": "Main Course",
+        "Price (INR)": 380.0,
+        "Rating": "4.5",
+        "Is Veg": "No",
+        "Restaurant Name": "Hotel Royal park",
+        "Address": "19 1 107  Kosurivari Street  Main Road  Kakinada  Andhra Pradesh 533001",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Veg Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 189.0,
+        "Rating": "4.1",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Me 'N' U",
+        "Address": "Opp Pizza Day Bhaskar Nagar Gudari Gunta Road, Dwaraka Nagar Kakinada Andhra Pradesh 533003 India",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 545.0,
+        "Rating": "2.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Abhiruchi Restaurant",
+        "Address": "Masjid centre, Main Road, Suryanarayana Puram, Kakinada, Andhra Pradesh 533001, India",
+        "Delivery Time": 34
+    },
+    {
+        "Dish Name": "Special Veg Biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 295.0,
+        "Rating": "3.3",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Rajula Donne Biryani",
+        "Address": "D.No.16-24-25, Dairy Form Center, Bala Venkateswara Nagar,  Sambamurthy Nagar Kakinada, Kakinada (Urban),  East Godavari(Andhra Pradesh) -533003",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Mutton Special Biryani",
+        "Category": "Rice & Noodles",
+        "Price (INR)": 550.0,
+        "Rating": "4.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Hotel Royal park",
+        "Address": "19 1 107  Kosurivari Street  Main Road  Kakinada  Andhra Pradesh 533001",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Paneer biryani",
+        "Category": "Veg Biryani",
+        "Price (INR)": 280.0,
+        "Rating": "2.6",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Aaroma's Kitchen",
+        "Address": "Shop No : 16-33-23 , Floor : 0 , 1st Street Sambamurthy Nagar Kakinda , ",
+        "Delivery Time": 42
+    },
+    {
+        "Dish Name": "Chicken Wings Biryani",
+        "Category": "Biriyani",
+        "Price (INR)": 320.0,
+        "Rating": "4.6",
+        "Is Veg": "No",
+        "Restaurant Name": "Biryani Blast",
+        "Address": "\"\t 3-16c-42 Kanayyakapu nagar Shanti nagar, Kakinada (Urban), Kakinada, Andhra Pradesh - 533003\"",
+        "Delivery Time": 33
+    },
+    {
+        "Dish Name": "Veg Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 130.0,
+        "Rating": "3.5",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Sri Manikanta Restaurant",
+        "Address": "Rajaji St, Near Gold market junction, Suryanarayana Puram, Kakinada, Andhra Pradesh 533001",
+        "Delivery Time": 14
+    },
+    {
+        "Dish Name": "Sp chicken biryani",
+        "Category": "Biryani",
+        "Price (INR)": 300.0,
+        "Rating": "4.5",
+        "Is Veg": "No",
+        "Restaurant Name": "Kakinada Ruchulu",
+        "Address": "D.No.10-5-29 Nageswara Road, Ramaraopeta, Kakinada (Urban), Kakinada, Andhra Pradesh 533004",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Prawns Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 340.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Kshatriya Foods",
+        "Address": "D.No.20/1/25/6, Main Road, Kakinada, Kakinada (Urban), East Godavari,  Andhra Pradesh-533001",
+        "Delivery Time": 15
+    },
+    {
+        "Dish Name": "Boneless Chicken Biryani",
+        "Category": "Biriyani",
+        "Price (INR)": 320.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Biryani Blast",
+        "Address": "\"\t 3-16c-42 Kanayyakapu nagar Shanti nagar, Kakinada (Urban), Kakinada, Andhra Pradesh - 533003\"",
+        "Delivery Time": 33
+    },
+    {
+        "Dish Name": "Veg biryani",
+        "Category": "Rice",
+        "Price (INR)": 95.0,
+        "Rating": "4.8",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Dwaraka Tiffins And Meals",
+        "Address": "Chundru Rajya Lakshmi, Proprietrix, D.No. 16-37-25, Sambhamurthy Nagar, Kakinanda, Andhra Pradesh-533003",
+        "Delivery Time": 18
+    },
+    {
+        "Dish Name": "Chicken Mughlai Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 280.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Satya Paradise",
+        "Address": "D.NO: 12-5-15, rama somayajulu Street, Main road , Kakinada",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "Paneer Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 260.0,
+        "Rating": null,
+        "Is Veg": "Yes",
+        "Restaurant Name": "AROMA BIRYANIS",
+        "Address": "D.NO: 12-5-15, rama somayajulu Street, Main road , Kakinada-533001",
+        "Delivery Time": 28
+    },
+    {
+        "Dish Name": "Chicken Frybit Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 289.0,
+        "Rating": "3.8",
+        "Is Veg": "No",
+        "Restaurant Name": "Eat More",
+        "Address": "Opposite KKR Gowtham School, Near Pragathi Inter College, D- Mart Road, Venkat Nagar, Kakinada, Andhra Pradesh 533003",
+        "Delivery Time": 37
+    },
+    {
+        "Dish Name": "Mixed Mughlai Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 300.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "AROMA BIRYANIS",
+        "Address": "D.NO: 12-5-15, rama somayajulu Street, Main road , Kakinada-533001",
+        "Delivery Time": 28
+    },
+    {
+        "Dish Name": "Chicken Special Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 339.0,
+        "Rating": "4.6",
+        "Is Veg": "No",
+        "Restaurant Name": "Eat More",
+        "Address": "Opposite KKR Gowtham School, Near Pragathi Inter College, D- Mart Road, Venkat Nagar, Kakinada, Andhra Pradesh 533003",
+        "Delivery Time": 37
+    },
+    {
+        "Dish Name": "Chicken Fry Bit Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 260.0,
+        "Rating": "3.5",
+        "Is Veg": "No",
+        "Restaurant Name": "Satya Paradise",
+        "Address": "D.NO: 12-5-15, rama somayajulu Street, Main road , Kakinada",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "E2 Special Chicken Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 375.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "E 2 Restaurant",
+        "Address": "NFCL Rd, Vidya Nagar, Ramanayapeta, Kakinada, Andhra Pradesh 533005, India",
+        "Delivery Time": 29
+    },
+    {
+        "Dish Name": "Chicken Fry Bit Biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 300.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Hyggee Multicuisine Restaurant",
+        "Address": "Bank Colony, Kakinada, Andhra Pradesh 533005",
+        "Delivery Time": 34
+    },
+    {
+        "Dish Name": "Mutton Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 439.0,
+        "Rating": "4.6",
+        "Is Veg": "No",
+        "Restaurant Name": "E 2 Restaurant",
+        "Address": "NFCL Rd, Vidya Nagar, Ramanayapeta, Kakinada, Andhra Pradesh 533005, India",
+        "Delivery Time": 29
+    },
+    {
+        "Dish Name": "Kaju Paneer Biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 300.0,
+        "Rating": "4.2",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Hyggee Multicuisine Restaurant",
+        "Address": "Bank Colony, Kakinada, Andhra Pradesh 533005",
+        "Delivery Time": 34
+    },
+    {
+        "Dish Name": "Special paneer biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 380.0,
+        "Rating": "4.3",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Ananda Pure Veg Restaurant",
+        "Address": "Shop No : 1 , Floor : 0 , D No 1-14-15, Sriram Nagar, Suryaraopeta , ",
+        "Delivery Time": 32
+    },
+    {
+        "Dish Name": "Mixed Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 380.0,
+        "Rating": "5.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Mango Kitchen",
+        "Address": "D.No. 3-170-57, Radha Nagar, Opp. Bharat Petrol Bunk Gudarigunta, Kakinada, Kakinada (Urban). Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 38
+    },
+    {
+        "Dish Name": "Ananda mixed veg biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 390.0,
+        "Rating": null,
+        "Is Veg": "Yes",
+        "Restaurant Name": "Ananda Pure Veg Restaurant",
+        "Address": "Shop No : 1 , Floor : 0 , D No 1-14-15, Sriram Nagar, Suryaraopeta , ",
+        "Delivery Time": 32
+    },
+    {
+        "Dish Name": "Chicken Fry Bit Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 300.0,
+        "Rating": "2.9",
+        "Is Veg": "No",
+        "Restaurant Name": "Mango Kitchen",
+        "Address": "D.No. 3-170-57, Radha Nagar, Opp. Bharat Petrol Bunk Gudarigunta, Kakinada, Kakinada (Urban). Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 38
+    },
+    {
+        "Dish Name": "Kadai Paneer Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 330.0,
+        "Rating": "3.8",
+        "Is Veg": "Yes",
+        "Restaurant Name": "Biryanis And More",
+        "Address": "Near, 3rd floor,82 degree East,SRMT MALL & MULTIPLEX, Sarpavaram Junction, Lalitha Nagar, Kakinada, Andhra Pradesh 533005, India",
+        "Delivery Time": 32
+    },
+    {
+        "Dish Name": "Chicken Mughali Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 410.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Biryanis And More",
+        "Address": "Near, 3rd floor,82 degree East,SRMT MALL & MULTIPLEX, Sarpavaram Junction, Lalitha Nagar, Kakinada, Andhra Pradesh 533005, India",
+        "Delivery Time": 32
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 249.0,
+        "Rating": "4.6",
+        "Is Veg": "No",
+        "Restaurant Name": "Rainbow Multi-Cuisine Restaurant",
+        "Address": "D.No. 67-15-25/5, Sai Ratna Plaza, Ground Floor, Nagamalli thota Junction,  Kakinada, Kakinada (Urban), Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 49
+    },
+    {
+        "Dish Name": "Chicken dum biryani [half]+Lemon and coriandor soup                                                                           ",
+        "Category": "Must Try Combos",
+        "Price (INR)": 289.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Kakinada Ruchulu",
+        "Address": "D.No.10-5-29 Nageswara Road, Ramaraopeta, Kakinada (Urban), Kakinada, Andhra Pradesh 533004",
+        "Delivery Time": 31
+    },
+    {
+        "Dish Name": "Veg Biriyani[500Ml]+Pulihora[500Ml]",
+        "Category": "Rice Combos",
+        "Price (INR)": 149.0,
+        "Rating": null,
+        "Is Veg": "Yes",
+        "Restaurant Name": "Dwaraka Tiffins And Meals",
+        "Address": "Chundru Rajya Lakshmi, Proprietrix, D.No. 16-37-25, Sambhamurthy Nagar, Kakinanda, Andhra Pradesh-533003",
+        "Delivery Time": 18
+    },
+    {
+        "Dish Name": "Egg biryani [3 eggs]",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 200.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Rajee's Copper Chimney",
+        "Address": "Shop No : 23-7-18 , Floor :  , Duggirala Vari Street , ",
+        "Delivery Time": 33
+    },
+    {
+        "Dish Name": "Chicken Fry Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 249.0,
+        "Rating": "3.7",
+        "Is Veg": "No",
+        "Restaurant Name": "Rainbow Multi-Cuisine Restaurant",
+        "Address": "D.No. 67-15-25/5, Sai Ratna Plaza, Ground Floor, Nagamalli thota Junction,  Kakinada, Kakinada (Urban), Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 49
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 249.0,
+        "Rating": "3.4",
+        "Is Veg": "No",
+        "Restaurant Name": "Hot 'N' Spicy",
+        "Address": "Koppolu Surya Kiran, Proprietor, Shop No 1, East Godavari Sports Authority Shopping Complex, NFCL ROAD, Kakinada, East Godavari, Kakinada, Andhra Pradesh, 533005",
+        "Delivery Time": 48
+    },
+    {
+        "Dish Name": "Mutton Dum Biryani",
+        "Category": "Pulao & Biryanis",
+        "Price (INR)": 455.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Suribabu Kodi Pulao",
+        "Address": "\"\t D.No.4-322, Chodisetty Complex, Gaigolupadu, Kakinada, Kakinada (Urban), East Godavari, Andhra Pradesh-533005\"",
+        "Delivery Time": 27
+    },
+    {
+        "Dish Name": "Chicken Fry Bit Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 260.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "SRI SAI KSHATRIYA FOODS",
+        "Address": "Dno 67-21-12/5, 6th cross road, Rajeshwari Nagar, Near Sri Dwarapudi Bhaskar Reddy Padmavathi Kalyana Mandapam, Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 38
+    },
+    {
+        "Dish Name": "Kobbari annam",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 200.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Rajee's Copper Chimney",
+        "Address": "Shop No : 23-7-18 , Floor :  , Duggirala Vari Street , ",
+        "Delivery Time": 33
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 249.0,
+        "Rating": "3.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Spicy Dhaba",
+        "Address": "Koppolu Surya Kiran, Proprietor, Shop No 1, East Godavari Sports Authority Shopping Complex, NFCL ROAD, Kakinada, East Godavari, Kakinada, Andhra Pradesh, 533005",
+        "Delivery Time": 48
+    },
+    {
+        "Dish Name": "Biryani Rice",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 220.0,
+        "Rating": null,
+        "Is Veg": "Yes",
+        "Restaurant Name": "Raj Cosma Wood Fried Pizza",
+        "Address": "Shop No : D.no-16-24-25 , Floor : 0 , Dairy farm center Bala Venkateswara Nagar , ",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Mixed Mughlai Biryani",
+        "Category": "Rice and Biryani",
+        "Price (INR)": 460.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "SRI SAI KSHATRIYA FOODS",
+        "Address": "Dno 67-21-12/5, 6th cross road, Rajeshwari Nagar, Near Sri Dwarapudi Bhaskar Reddy Padmavathi Kalyana Mandapam, Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 38
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 260.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Raj Cosma Wood Fried Pizza",
+        "Address": "Shop No : D.no-16-24-25 , Floor : 0 , Dairy farm center Bala Venkateswara Nagar , ",
+        "Delivery Time": 21
+    },
+    {
+        "Dish Name": "Chicken Fry Bit Biryani",
+        "Category": "Rice And Biryani",
+        "Price (INR)": 249.0,
+        "Rating": "3.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Spicy Dhaba",
+        "Address": "Koppolu Surya Kiran, Proprietor, Shop No 1, East Godavari Sports Authority Shopping Complex, NFCL ROAD, Kakinada, East Godavari, Kakinada, Andhra Pradesh, 533005",
+        "Delivery Time": 48
+    },
+    {
+        "Dish Name": "Mutton Dum Biryani (Serves 1)",
+        "Category": "Biryani Box - Serves 1",
+        "Price (INR)": 519.0,
+        "Rating": "4.5",
+        "Is Veg": "No",
+        "Restaurant Name": "Dum Safar Biryani",
+        "Address": "C/o BARBEQUE NATION -Unit No. 2, 4th Floor Door No. 4-21,SRMT Mall & Multiplex, Pithapuram Rd, Ramanayyapeta, Kakinada, Andhra Pradesh 533005",
+        "Delivery Time": 52
+    },
+    {
+        "Dish Name": "Chicken Biryani",
+        "Category": "Biryanis, Curries and Roti",
+        "Price (INR)": 359.0,
+        "Rating": "4.1",
+        "Is Veg": "No",
+        "Restaurant Name": "Barbeque Nation",
+        "Address": "Unit No. 2, 4th Floor Door No. 4-21,SRMT Mall & Multiplex, Pithapuram Rd, Ramanayyapeta, Kakinada, Andhra Pradesh 533005",
+        "Delivery Time": 61
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani (Serves 1)",
+        "Category": "Biryani Box - Serves 1",
+        "Price (INR)": 419.0,
+        "Rating": "4.3",
+        "Is Veg": "No",
+        "Restaurant Name": "Dum Safar Biryani",
+        "Address": "C/o BARBEQUE NATION -Unit No. 2, 4th Floor Door No. 4-21,SRMT Mall & Multiplex, Pithapuram Rd, Ramanayyapeta, Kakinada, Andhra Pradesh 533005",
+        "Delivery Time": 52
+    },
+    {
+        "Dish Name": "Chicken dum biryani",
+        "Category": "Biryani",
+        "Price (INR)": 310.0,
+        "Rating": "4.6",
+        "Is Veg": "No",
+        "Restaurant Name": "Bobby Restaurant",
+        "Address": "Akula Mahesh, Proprietor, D.No.69-17-55, Beside Anju Eye Care Hospital, Revenue Ward No-29, Gaigolupadu, Kakinada, Kakinada(Urban), Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 39
+    },
+    {
+        "Dish Name": "Egg biryani",
+        "Category": "Biryani",
+        "Price (INR)": 290.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Bobby Restaurant",
+        "Address": "Akula Mahesh, Proprietor, D.No.69-17-55, Beside Anju Eye Care Hospital, Revenue Ward No-29, Gaigolupadu, Kakinada, Kakinada(Urban), Kakinada, Andhra Pradesh-533003",
+        "Delivery Time": 39
+    },
+    {
+        "Dish Name": "Chicken Dum Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 149.0,
+        "Rating": "3.9",
+        "Is Veg": "No",
+        "Restaurant Name": "Nizam's Hyderabadi Dum Biryani",
+        "Address": "71/1B, Acchampeta junction, ADB road, Kakinada, 533005",
+        "Delivery Time": 54
+    },
+    {
+        "Dish Name": "Mutton Biryani",
+        "Category": "Biryanis, Curries and Roti",
+        "Price (INR)": 429.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "Barbeque Nation",
+        "Address": "Unit No. 2, 4th Floor Door No. 4-21,SRMT Mall & Multiplex, Pithapuram Rd, Ramanayyapeta, Kakinada, Andhra Pradesh 533005",
+        "Delivery Time": 61
+    },
+    {
+        "Dish Name": "Mutton Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 449.0,
+        "Rating": "4.2",
+        "Is Veg": "No",
+        "Restaurant Name": "UBQ by Barbeque Nation",
+        "Address": "4th Floor, Fine Dining, SRMT mall Door no.4-21, Pithapuram Road, Ramanayyapeta KAKINADA-533005",
+        "Delivery Time": 52
+    },
+    {
+        "Dish Name": "Paneer Tikka Biryani",
+        "Category": "Biryanis",
+        "Price (INR)": 369.0,
+        "Rating": "4.5",
+        "Is Veg": "Yes",
+        "Restaurant Name": "UBQ by Barbeque Nation",
+        "Address": "4th Floor, Fine Dining, SRMT mall Door no.4-21, Pithapuram Road, Ramanayyapeta KAKINADA-533005",
+        "Delivery Time": 52
+    },
+    {
+        "Dish Name": "Chicken Mughlai Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 385.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "143 Foodies",
+        "Address": "D.No 70-2-28/A, Opp to HP petrol Bunk, Nagamallithota Junction,  Kakinada, Kakinada (Urban), East Godavari, Andhra Pradesh-533003",
+        "Delivery Time": 50
+    },
+    {
+        "Dish Name": "Prawn Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 400.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "143 Foodies",
+        "Address": "D.No 70-2-28/A, Opp to HP petrol Bunk, Nagamallithota Junction,  Kakinada, Kakinada (Urban), East Godavari, Andhra Pradesh-533003",
+        "Delivery Time": 50
+    },
+    {
+        "Dish Name": "Veg Biryani  ",
+        "Category": "Biryanis Veg",
+        "Price (INR)": 189.0,
+        "Rating": null,
+        "Is Veg": "Yes",
+        "Restaurant Name": "Sri Kamal Restaurant",
+        "Address": "Sripathi Durga Kamala, Proprietrix, D.No.9-433, Opp. SRMT Mall, Pithapuram Road, Sarpavaram Junction, Kakinada\t533005",
+        "Delivery Time": 47
+    },
+    {
+        "Dish Name": "Mughlai Biryani",
+        "Category": "Biryanis Non Veg",
+        "Price (INR)": 300.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Sri Kamal Restaurant",
+        "Address": "Sripathi Durga Kamala, Proprietrix, D.No.9-433, Opp. SRMT Mall, Pithapuram Road, Sarpavaram Junction, Kakinada\t533005",
+        "Delivery Time": 47
+    },
+    {
+        "Dish Name": "Dum biryani",
+        "Category": "Non Veg Biryani",
+        "Price (INR)": 145.0,
+        "Rating": "3.7",
+        "Is Veg": "No",
+        "Restaurant Name": "Hotel Bakasura",
+        "Address": "Shop No : 1 , Floor : 0 , Hotel Bakasura , ",
+        "Delivery Time": 41
+    },
+    {
+        "Dish Name": "Mutton Dum Biryani",
+        "Category": "Biryani",
+        "Price (INR)": 455.0,
+        "Rating": null,
+        "Is Veg": "No",
+        "Restaurant Name": "Chennai Express",
+        "Address": "D.No 70-2-28/A, Opp to HP petrol Bunk, Nagamallithota Junction,  Kakinada, Kakinada (Urban), East Godavari, Andhra Pradesh-533003",
+        "Delivery Time": 39
+    },
+    {
+        "Dish Name": "Fry bit biryani",
+        "Category": "Biryani",
+        "Price (INR)": 249.0,
+        "Rating": "4.0",
+        "Is Veg": "No",
+        "Restaurant Name": "Dhaba House",
+        "Address": "Pulla Siva Sekhar, Proprietor, D.No. Opposite New Trust Hospital, 12-172, Ramanayya peta, Kakinada ,Kakinada (Urban),Kakinada,Andhra Pradesh-533005",
+        "Delivery Time": 48
+    }
+]
